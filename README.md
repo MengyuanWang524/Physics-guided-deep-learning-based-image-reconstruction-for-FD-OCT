@@ -2,6 +2,8 @@
 This is the code for the paper: Physics-guided deep learning-based image reconstruction for Fourier-domain optical coherence tomography
 The code is based on Python 3.7
 
+Load the model from the website: https://zenodo.org/records/10606447
+
 Data preparation:
 The Training and validation data should have been uploaded in two folders. The data was saved in '.h5' format
 The code that loads the data from the .h5 file is H5Dataload.py 
